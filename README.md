@@ -82,7 +82,7 @@ The script will create a directory structure under `~/recon.sh/[domain]` contain
 The script generates the following directory structure:
 
 ```
-~/recon/[domain]/
+~/recon.sh/[domain]/
 ├── subdomains_subfinder.txt
 ├── subdomains_assetfinder.txt
 ├── subdomains_amass.txt
